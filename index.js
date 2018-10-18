@@ -1,1 +1,1 @@
-console.log("hello js!")
+console.log("amazing hello js hello js") 
