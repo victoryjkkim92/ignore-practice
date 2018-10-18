@@ -1,3 +1,7 @@
+# Custom
+hidden/
+*.py
+
 # Logs
 logs
 *.log
